@@ -11,3 +11,5 @@ def model 2 :
     
 def model 3 :
     print ("adding model 3")
+
+    print('model 2 is performing best ')
